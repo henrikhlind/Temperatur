@@ -1,0 +1,15 @@
+/Users/henriklindstad/Projects/Temperatur/Temperatur/bin/Debug/net7.0/Temperatur
+/Users/henriklindstad/Projects/Temperatur/Temperatur/bin/Debug/net7.0/Temperatur.deps.json
+/Users/henriklindstad/Projects/Temperatur/Temperatur/bin/Debug/net7.0/Temperatur.runtimeconfig.json
+/Users/henriklindstad/Projects/Temperatur/Temperatur/bin/Debug/net7.0/Temperatur.dll
+/Users/henriklindstad/Projects/Temperatur/Temperatur/bin/Debug/net7.0/Temperatur.pdb
+/Users/henriklindstad/Projects/Temperatur/Temperatur/obj/Debug/net7.0/Temperatur.csproj.AssemblyReference.cache
+/Users/henriklindstad/Projects/Temperatur/Temperatur/obj/Debug/net7.0/Temperatur.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henriklindstad/Projects/Temperatur/Temperatur/obj/Debug/net7.0/Temperatur.AssemblyInfoInputs.cache
+/Users/henriklindstad/Projects/Temperatur/Temperatur/obj/Debug/net7.0/Temperatur.AssemblyInfo.cs
+/Users/henriklindstad/Projects/Temperatur/Temperatur/obj/Debug/net7.0/Temperatur.csproj.CoreCompileInputs.cache
+/Users/henriklindstad/Projects/Temperatur/Temperatur/obj/Debug/net7.0/Temperatur.dll
+/Users/henriklindstad/Projects/Temperatur/Temperatur/obj/Debug/net7.0/refint/Temperatur.dll
+/Users/henriklindstad/Projects/Temperatur/Temperatur/obj/Debug/net7.0/Temperatur.pdb
+/Users/henriklindstad/Projects/Temperatur/Temperatur/obj/Debug/net7.0/Temperatur.genruntimeconfig.cache
+/Users/henriklindstad/Projects/Temperatur/Temperatur/obj/Debug/net7.0/ref/Temperatur.dll
